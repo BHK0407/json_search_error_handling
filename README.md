@@ -9,11 +9,11 @@ JSON Search is a Python utility script designed to search for specific words wit
 ## Features
 
 
-. Search for specific words within JSON files recursively.
-. Interactive input for the JSON file path.
-. Error handling for file not found and invalid JSON format.
-. User-friendly display of search results.
-. Flexible usage with command-line arguments.
+_ Search for specific words within JSON files recursively.
+_ Interactive input for the JSON file path.
+_ Error handling for file not found and invalid JSON format.
+_ User-friendly display of search results.
+_ Flexible usage with command-line arguments.
 
 
 ## Usage
@@ -29,8 +29,8 @@ JSON Search is a Python utility script designed to search for specific words wit
 ## Requirements
 
 
-. Python 3.x
-. No additional Python packages required
+_ Python 3.x
+_ No additional Python packages required
 
 
 ## License
